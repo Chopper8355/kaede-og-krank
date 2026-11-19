@@ -1,0 +1,33 @@
+/*
+Theme Name:  Kæde & Krank
+Description: Eget tema til Kæde & Krank.
+Version:     0.1.0
+Author:      Jonas Knudsen
+Text Domain: kk-tema
+*/
+
+body {
+    color: red;
+}
+
+/* Hero: SVG'en indsættes inline fra assets/, så CSS'en her rammer den.
+   (Secure SVG Upload fjerner <style> fra uploadede SVG'er.) */
+.hero__billede {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.hjul--drej {
+    transform-box: fill-box;
+    transform-origin: center;
+    animation: hjul-drej 4s ease-in-out;
+}
+
+@keyframes hjul-drej {
+    to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .hjul--drej { animation: none; }
+}
