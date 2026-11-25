@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="1730" viewBox="0 0 1220 1730" font-family="Inter, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><rect width="1220" height="1730" fill="#FFFFFF"/>
+<text x="40" y="62" font-size="30" font-weight="700" fill="#2C2C2A">Brugte cykler (oversigt) · mobil</text>
+<text x="40" y="92" font-size="16" fill="#888780">Kæde &amp; Krank · D05 wireframe · lav detalje · 360 px</text>
+<text x="40" y="118" font-size="14" font-weight="600" fill="#888780">Mobil · 360 px</text>
+<rect x="40" y="130" width="360" height="1540" rx="10" fill="#FFFFFF"/>
+<text x="630" y="118" font-size="14" font-weight="600" fill="#888780">Mobil · filterpanel åbent</text>
+<rect x="630" y="130" width="360" height="584" rx="10" fill="#FFFFFF"/>
+<rect x="40" y="130" width="360" height="64" rx="10" fill="#F1EFE8" stroke="none" stroke-width="1.5"/>
+<line x1="40" y1="194" x2="400" y2="194" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="56" y="146" width="140" height="32" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="126" y="167" font-size="13" font-weight="600" fill="#888780" text-anchor="middle">Logo</text>
+<line x1="352" y1="154" x2="380" y2="154" stroke="#444441" stroke-width="3"/>
+<line x1="352" y1="162" x2="380" y2="162" stroke="#444441" stroke-width="3"/>
+<line x1="352" y1="170" x2="380" y2="170" stroke="#444441" stroke-width="3"/>
+<line x1="400" y1="162" x2="422" y2="162" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="149" width="101.6" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="474.8" y="166.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">G-02 · G-03</text>
+<text x="426" y="194" font-size="12.5" fill="#993C1D">Logo + burger-menu</text>
+<text x="426" y="211" font-size="12.5" fill="#993C1D">(aria-expanded)</text>
+<text x="56" y="246" font-size="28" font-weight="800" fill="#2C2C2A" text-anchor="start">Brugte cykler</text>
+<rect x="56" y="268" width="328" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="56" y="286" width="328" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="56" y="304" width="196.79999999999998" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="56" y="326" width="328" height="44" rx="6" fill="#F1EFE8" stroke="none" stroke-width="1.5"/>
+<text x="70" y="353" font-size="13" font-weight="700" fill="#2C2C2A" text-anchor="start">✓ 3 måneders garanti på alle cykler</text>
+<rect x="56" y="390" width="150" height="44" rx="8" fill="#FFFFFF" stroke="#444441" stroke-width="1.5"/>
+<text x="131" y="417" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="middle">Filtrér (2)</text>
+<rect x="218" y="390" width="166" height="44" rx="8" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="230" y="417" font-size="14" font-weight="500" fill="#444441" text-anchor="start">Nyeste</text>
+<text x="368" y="417" font-size="14" font-weight="400" fill="#444441" text-anchor="middle">▾</text>
+<line x1="400" y1="412" x2="422" y2="412" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="399" width="101.6" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="474.8" y="416.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">C-02 · C-03</text>
+<text x="426" y="444" font-size="12.5" fill="#993C1D">Filtre bag knap · sortér</text>
+<text x="426" y="461" font-size="12.5" fill="#993C1D">pris op/ned, nyeste</text>
+<text x="426" y="478" font-size="12.5" fill="#993C1D">+ antal resultater</text>
+<text x="56" y="468" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Viser 6 cykler</text>
+<rect x="56" y="486" width="328" height="330" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="66" y="496" width="308" height="205" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="66" y1="496" x2="374" y2="701" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="374" y1="496" x2="66" y2="701" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="173.5" y="585.5" width="93" height="26" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1"/>
+<text x="220.0" y="603.5" font-size="12" font-weight="500" fill="#888780" text-anchor="middle">Billede 3:2</text>
+<line x1="400" y1="520" x2="422" y2="520" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="507" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="448.2" y="524.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">C-01</text>
+<text x="426" y="552" font-size="12.5" fill="#993C1D">Hentes som JSON og</text>
+<text x="426" y="569" font-size="12.5" fill="#993C1D">vises med JavaScript</text>
+<text x="72" y="734" font-size="17" font-weight="700" fill="#2C2C2A" text-anchor="start">Gravelbike til grus og asfalt</text>
+<text x="72" y="760" font-size="13" font-weight="400" fill="#888780" text-anchor="start">Gravel · M · 2022</text>
+<text x="72" y="796" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="start">8.495 kr</text>
+<text x="368" y="796" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="end">Se cykel →</text>
+<rect x="56" y="830" width="328" height="330" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="66" y="840" width="308" height="205" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="66" y1="840" x2="374" y2="1045" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="374" y1="840" x2="66" y2="1045" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="173.5" y="929.5" width="93" height="26" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1"/>
+<text x="220.0" y="947.5" font-size="12" font-weight="500" fill="#888780" text-anchor="middle">Billede 3:2</text>
+<rect x="78" y="852" width="93.0" height="24" rx="12" fill="#444441" stroke="#444441" stroke-width="1.5"/>
+<text x="124.5" y="868.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Reserveret</text>
+<line x1="400" y1="864" x2="422" y2="864" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="851" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="448.2" y="868.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">C-05</text>
+<text x="426" y="896" font-size="12.5" fill="#993C1D">Reserveret = mærkat</text>
+<text x="426" y="913" font-size="12.5" fill="#993C1D">Solgte vises ikke</text>
+<text x="72" y="1078" font-size="17" font-weight="700" fill="#2C2C2A" text-anchor="start">Elcykel med midtmotor</text>
+<text x="72" y="1104" font-size="13" font-weight="400" fill="#888780" text-anchor="start">Elcykel · M · 2022</text>
+<text x="72" y="1140" font-size="18" font-weight="700" fill="#2C2C2A" text-anchor="start">11.995 kr</text>
+<text x="368" y="1140" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="end">Se cykel →</text>
+<text x="220" y="1184" font-size="13" font-weight="400" fill="#888780" text-anchor="middle">… flere kort under hinanden</text>
+<rect x="56" y="1210" width="328" height="130" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="220" y="1240" font-size="12" font-weight="600" fill="#888780" text-anchor="middle">Tilstand uden resultater:</text>
+<text x="220" y="1270" font-size="15" font-weight="700" fill="#2C2C2A" text-anchor="middle">Ingen cykler matcher dine filtre</text>
+<rect x="140" y="1286" width="160" height="38" rx="8" fill="#FFFFFF" stroke="#444441" stroke-width="1.5"/>
+<text x="220.0" y="1309.55" font-size="13" font-weight="600" fill="#444441" text-anchor="middle">Nulstil filtre</text>
+<line x1="400" y1="1270" x2="422" y2="1270" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="1257" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="448.2" y="1274.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">C-02</text>
+<text x="426" y="1302" font-size="12.5" fill="#993C1D">Besked, hvis intet</text>
+<text x="426" y="1319" font-size="12.5" fill="#993C1D">matcher</text>
+<rect x="40" y="1370" width="360" height="300" rx="0" fill="#D3D1C7" stroke="none" stroke-width="1.5"/>
+<rect x="56" y="1394" width="140" height="32" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="126" y="1415" font-size="12" font-weight="600" fill="#888780" text-anchor="middle">Logo (negativ)</text>
+<text x="56" y="1450" font-size="14" font-weight="600" fill="#444441" text-anchor="start">Vi holder Aarhus rullende</text>
+<text x="56" y="1482" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Kontakt</text>
+<text x="56" y="1504" font-size="13" font-weight="400" fill="#444441" text-anchor="start">Krankvej 12, 8000 Aarhus C</text>
+<text x="56" y="1524" font-size="13" font-weight="400" fill="#444441" text-anchor="start">86 12 34 56 · hej@kaedeogkrank.dk</text>
+<text x="56" y="1556" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Åbningstider</text>
+<text x="56" y="1578" font-size="13" font-weight="400" fill="#444441" text-anchor="start">Man–fre 8–17 · Lør 10–14 · Søn lukket</text>
+<text x="56" y="1610" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="start">Garanti og vilkår</text>
+<line x1="56" y1="1614" x2="176" y2="1614" stroke="#2C2C2A" stroke-width="1"/>
+<line x1="56" y1="1630" x2="384" y2="1630" stroke="#B4B2A9" stroke-width="1"/>
+<text x="56" y="1652" font-size="12" font-weight="400" fill="#888780" text-anchor="start">© Kæde &amp; Krank · CVR 12 34 56 78</text>
+<line x1="400" y1="1400" x2="422" y2="1400" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="1387" width="63.599999999999994" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="455.8" y="1404.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">Footer</text>
+<text x="426" y="1432" font-size="12.5" fill="#993C1D">Kontakt, åbningstider,</text>
+<text x="426" y="1449" font-size="12.5" fill="#993C1D">garanti og vilkår</text>
+<rect x="630" y="130" width="360" height="64" rx="10" fill="#F1EFE8" stroke="none" stroke-width="1.5"/>
+<line x1="630" y1="194" x2="990" y2="194" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="646" y="170" font-size="20" font-weight="800" fill="#2C2C2A" text-anchor="start">Filtrér</text>
+<text x="950" y="172" font-size="20" font-weight="700" fill="#2C2C2A" text-anchor="middle">✕</text>
+<line x1="990" y1="162" x2="1012" y2="162" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="1014" y="149" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="1038.2" y="166.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">C-02</text>
+<text x="1016" y="194" font-size="12.5" fill="#993C1D">Panel over siden</text>
+<text x="1016" y="211" font-size="12.5" fill="#993C1D">Luk med ✕ eller Esc</text>
+<text x="646" y="222" font-size="15" font-weight="700" fill="#2C2C2A" text-anchor="start">Type</text>
+<rect x="646" y="244" width="20" height="20" rx="4" fill="#FFFFFF" stroke="#444441" stroke-width="1.5"/>
+<text x="676" y="259" font-size="14" font-weight="400" fill="#444441" text-anchor="start">Børnecykel</text>
+<rect x="814" y="244" width="20" height="20" rx="4" fill="#FFFFFF" stroke="#444441" stroke-width="1.5"/>
+<text x="844" y="259" font-size="14" font-weight="400" fill="#444441" text-anchor="start">Citybike</text>
+<rect x="646" y="284" width="20" height="20" rx="4" fill="#FFFFFF" stroke="#444441" stroke-width="1.5"/>
+<text x="676" y="299" font-size="14" font-weight="400" fill="#444441" text-anchor="start">Elcykel</text>
+<rect x="814" y="284" width="20" height="20" rx="4" fill="#444441" stroke="#444441" stroke-width="1.5"/>
+<text x="824" y="299" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">✓</text>
+<text x="844" y="299" font-size="14" font-weight="400" fill="#444441" text-anchor="start">Gravel</text>
+<rect x="646" y="324" width="20" height="20" rx="4" fill="#444441" stroke="#444441" stroke-width="1.5"/>
+<text x="656" y="339" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">✓</text>
+<text x="676" y="339" font-size="14" font-weight="400" fill="#444441" text-anchor="start">Mountainbike</text>
+<rect x="814" y="324" width="20" height="20" rx="4" fill="#FFFFFF" stroke="#444441" stroke-width="1.5"/>
+<text x="844" y="339" font-size="14" font-weight="400" fill="#444441" text-anchor="start">Racer</text>
+<text x="646" y="388" font-size="15" font-weight="700" fill="#2C2C2A" text-anchor="start">Stelstørrelse</text>
+<rect x="646" y="402" width="58" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="675.0" y="425.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">XS</text>
+<rect x="712" y="402" width="58" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="741.0" y="425.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">S</text>
+<rect x="778" y="402" width="58" height="36" rx="18" fill="#444441" stroke="#444441" stroke-width="1.5"/>
+<text x="807.0" y="425.0" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">M</text>
+<rect x="844" y="402" width="58" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="873.0" y="425.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">L</text>
+<rect x="910" y="402" width="58" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="939.0" y="425.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">XL</text>
+<text x="646" y="478" font-size="15" font-weight="700" fill="#2C2C2A" text-anchor="start">Maks. pris</text>
+<line x1="656" y1="528" x2="964" y2="528" stroke="#B4B2A9" stroke-width="4"/>
+<line x1="656" y1="528" x2="840.8" y2="528" stroke="#444441" stroke-width="4"/>
+<circle cx="840.8" cy="528" r="10" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<text x="656" y="558" font-size="12" font-weight="400" fill="#888780" text-anchor="start">0 kr</text>
+<text x="964" y="558" font-size="12" font-weight="400" fill="#888780" text-anchor="end">15.000 kr</text>
+<text x="840.8" y="510" font-size="13" font-weight="700" fill="#2C2C2A" text-anchor="middle">8.000 kr</text>
+<line x1="990" y1="558" x2="1012" y2="558" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="1014" y="545" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="1038.2" y="562.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">C-07</text>
+<text x="1016" y="590" font-size="12.5" fill="#993C1D">Valgte filtre gemmes i</text>
+<text x="1016" y="607" font-size="12.5" fill="#993C1D">URL'en: ?type=Gravel&amp;</text>
+<text x="1016" y="624" font-size="12.5" fill="#993C1D">stoerrelse=M&amp;maks=8000</text>
+<rect x="646" y="598" width="328" height="52" rx="8" fill="#444441" stroke="#444441" stroke-width="1.5"/>
+<text x="810.0" y="629.25" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">Vis 3 cykler</text>
+<text x="810" y="678" font-size="14" font-weight="600" fill="#2C2C2A" text-anchor="middle">Nulstil filtre</text>
+<line x1="762" y1="682" x2="858" y2="682" stroke="#2C2C2A" stroke-width="1"/>
+<rect x="40" y="130" width="360" height="1540" rx="10" fill="none" stroke="#2C2C2A" stroke-width="2"/>
+<rect x="630" y="130" width="360" height="584" rx="10" fill="none" stroke="#2C2C2A" stroke-width="2"/><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphMmVjMTQwYS03OWYwLTQwOTItYWQ3My04ZTQ5YTg2M2FjODYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHLVYZPQkW0VgkrdkXap2/YAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0MGIwOGU0YS1kZTIyLTRlNjItOTgyMy0yYmM5NDk4OWYxZDlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoj41vjbA1OonGqYs2DmUF0gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggu7pC1WIa25kj3WhYM7a27DNM3B+nJ8T38k8Mtxs6HKWkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFoiV6gY/aFuJfPk5Gj1yugAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYICdbdHzmrc+hVT40NvyUtafTSpKaVEpGkehPQiiHGMfVZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GT0pZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmEyZWMxNDBhLTc5ZjAtNDA5Mi1hZDczLThlNDlhODYzYWM4Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjMzZGJkMmFjLWMyZGEtNDI1Ni05YjJhLWQ1NGFkZGYxNzk0N3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC7ukLVYhrbmSPdaFgztrbsM0zcH6cnxPfyTwy3GzocpaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg2JnAJBoRvfZh1lx76gPHxXzTLGMX5gs+D7pckjkqcm+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggOEt0JDqzP4fLIgNbr4S9B/tA2lv0/HlXjThWbRrdgqZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJA3FQC6oRZNFFhKH/bIuXBAoAJEp9wVAB87vJ/51dw9PBA0PELVmQWToeZo0z0Fo1lPrd8YSa2pMXtoQUMEhTQ=</c2pa:manifest></metadata></svg>

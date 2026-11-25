@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="2004" viewBox="0 0 630 2004" font-family="Inter, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><rect width="630" height="2004" fill="#FFFFFF"/>
+<text x="40" y="62" font-size="30" font-weight="700" fill="#2C2C2A">Forside · mobil</text>
+<text x="40" y="92" font-size="16" fill="#888780">Kæde &amp; Krank · D05 wireframe · lav detalje · 360 px</text>
+<text x="40" y="118" font-size="14" font-weight="600" fill="#888780">Mobil · 360 px</text>
+<rect x="40" y="130" width="360" height="1814" rx="10" fill="#FFFFFF"/>
+<rect x="40" y="130" width="360" height="64" rx="10" fill="#F1EFE8" stroke="none" stroke-width="1.5"/>
+<line x1="40" y1="194" x2="400" y2="194" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="56" y="146" width="140" height="32" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="126" y="167" font-size="13" font-weight="600" fill="#888780" text-anchor="middle">Logo</text>
+<line x1="352" y1="154" x2="380" y2="154" stroke="#444441" stroke-width="3"/>
+<line x1="352" y1="162" x2="380" y2="162" stroke="#444441" stroke-width="3"/>
+<line x1="352" y1="170" x2="380" y2="170" stroke="#444441" stroke-width="3"/>
+<line x1="400" y1="162" x2="422" y2="162" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="149" width="101.6" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="474.8" y="166.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">G-02 · G-03</text>
+<text x="426" y="194" font-size="12.5" fill="#993C1D">Logo + burger-menu</text>
+<text x="426" y="211" font-size="12.5" fill="#993C1D">(aria-expanded)</text>
+<rect x="56" y="214" width="328" height="164" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="56" y1="214" x2="384" y2="378" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="384" y1="214" x2="56" y2="378" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="163.0" y="283.0" width="86" height="26" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1"/>
+<text x="206" y="301.0" font-size="12" font-weight="500" fill="#888780" text-anchor="middle">Hero (2:1)</text>
+<circle cx="110.0" cy="228" r="4" fill="#444441" stroke="#444441" stroke-width="1"/>
+<line x1="110.0" y1="228" x2="74" y2="246" stroke="#444441" stroke-width="1.5"/>
+<line x1="110.0" y1="228" x2="146" y2="246" stroke="#444441" stroke-width="1.5"/>
+<rect x="68" y="246" width="84" height="42.0" rx="3" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<text x="110.0" y="274.0" font-size="18" font-weight="800" fill="#2C2C2A" text-anchor="middle">ÅBEN</text>
+<line x1="400" y1="326" x2="422" y2="326" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="313" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="448.2" y="330.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">F-03</text>
+<text x="426" y="358" font-size="12.5" fill="#993C1D">Åben/lukket-skilt i hero</text>
+<text x="426" y="375" font-size="12.5" fill="#993C1D">JS ud fra brugerens ur</text>
+<circle cx="314" cy="306" r="44" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<circle cx="314" cy="306" r="8" fill="none" stroke="#444441" stroke-width="2"/>
+<text x="314" y="366" font-size="11" font-weight="600" fill="#444441" text-anchor="middle">hjul drejer</text>
+<line x1="400" y1="258" x2="422" y2="258" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="245" width="101.6" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="474.8" y="262.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">F-01 · F-05</text>
+<text x="426" y="290" font-size="12.5" fill="#993C1D">Hero + drejende hjul</text>
+<text x="56" y="430" font-size="28" font-weight="800" fill="#2C2C2A" text-anchor="start">Vi holder Aarhus</text>
+<text x="56" y="464" font-size="28" font-weight="800" fill="#2C2C2A" text-anchor="start">rullende</text>
+<rect x="56" y="486" width="328" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="56" y="504" width="328" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="56" y="522" width="328" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="56" y="540" width="196.79999999999998" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="56" y="566" width="328" height="52" rx="8" fill="#444441" stroke="#444441" stroke-width="1.5"/>
+<text x="220.0" y="597.25" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">Book tid</text>
+<text x="56" y="682" font-size="22" font-weight="700" fill="#2C2C2A" text-anchor="start">Populære ydelser</text>
+<line x1="400" y1="676" x2="422" y2="676" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="663" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="448.2" y="680.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">F-02</text>
+<text x="426" y="708" font-size="12.5" fill="#993C1D">3 ydelser valgt i admin</text>
+<text x="426" y="725" font-size="12.5" fill="#993C1D">(“Vis på forsiden”)</text>
+<rect x="56" y="702" width="328" height="118" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="72" y="732" font-size="17" font-weight="700" fill="#2C2C2A" text-anchor="start">Lille service</text>
+<rect x="72" y="746" width="296" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="72" y="764" width="177.6" height="8" rx="4" fill="#D3D1C7"/>
+<text x="72" y="802" font-size="14" font-weight="600" fill="#444441" text-anchor="start">449 kr · 60 min</text>
+<text x="368" y="802" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="end">Book →</text>
+<line x1="318" y1="806" x2="368" y2="806" stroke="#2C2C2A" stroke-width="1.2"/>
+<rect x="56" y="832" width="328" height="118" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="72" y="862" font-size="17" font-weight="700" fill="#2C2C2A" text-anchor="start">Stor service</text>
+<rect x="72" y="876" width="296" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="72" y="894" width="177.6" height="8" rx="4" fill="#D3D1C7"/>
+<text x="72" y="932" font-size="14" font-weight="600" fill="#444441" text-anchor="start">899 kr · 150 min</text>
+<text x="368" y="932" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="end">Book →</text>
+<line x1="318" y1="936" x2="368" y2="936" stroke="#2C2C2A" stroke-width="1.2"/>
+<rect x="56" y="962" width="328" height="118" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="72" y="992" font-size="17" font-weight="700" fill="#2C2C2A" text-anchor="start">Lap eller skift slange</text>
+<rect x="72" y="1006" width="296" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="72" y="1024" width="177.6" height="8" rx="4" fill="#D3D1C7"/>
+<text x="72" y="1062" font-size="14" font-weight="600" fill="#444441" text-anchor="start">149 kr · 30 min</text>
+<text x="368" y="1062" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="end">Book →</text>
+<line x1="318" y1="1066" x2="368" y2="1066" stroke="#2C2C2A" stroke-width="1.2"/>
+<text x="56" y="1106" font-size="14" font-weight="600" fill="#2C2C2A" text-anchor="start">Se alle priser →</text>
+<text x="56" y="1176" font-size="22" font-weight="700" fill="#2C2C2A" text-anchor="start">Nyeste brugte cykler</text>
+<line x1="400" y1="1170" x2="422" y2="1170" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="1157" width="101.6" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="474.8" y="1174.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">F-04 · C-05</text>
+<text x="426" y="1202" font-size="12.5" fill="#993C1D">3 nyeste til salg</text>
+<text x="426" y="1219" font-size="12.5" fill="#993C1D">Reserveret = mærkat</text>
+<rect x="56" y="1196" width="328" height="112" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="66" y="1206" width="120" height="92" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="66" y1="1206" x2="186" y2="1298" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="186" y1="1206" x2="66" y2="1298" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="200" y="1228" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Gravelbike med kulfi…</text>
+<text x="200" y="1252" font-size="12.5" font-weight="400" fill="#888780" text-anchor="start">Gravel · XL · 2023</text>
+<text x="200" y="1288" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="start">12.995 kr</text>
+<rect x="56" y="1320" width="328" height="112" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="66" y="1330" width="120" height="92" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="66" y1="1330" x2="186" y2="1422" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="186" y1="1330" x2="66" y2="1422" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="200" y="1352" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Fuldaffjedret mounta…</text>
+<text x="200" y="1376" font-size="12.5" font-weight="400" fill="#888780" text-anchor="start">Mountainbike · M · 2022</text>
+<text x="200" y="1412" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="start">9.995 kr</text>
+<rect x="56" y="1444" width="328" height="112" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="66" y="1454" width="120" height="92" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="66" y1="1454" x2="186" y2="1546" stroke="#B4B2A9" stroke-width="1.5"/>
+<line x1="186" y1="1454" x2="66" y2="1546" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="72" y="1460" width="93.0" height="24" rx="12" fill="#444441" stroke="#444441" stroke-width="1.5"/>
+<text x="118.5" y="1476.5" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Reserveret</text>
+<text x="200" y="1476" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Elcykel med midtmotor</text>
+<text x="200" y="1500" font-size="12.5" font-weight="400" fill="#888780" text-anchor="start">Elcykel · M · 2022</text>
+<text x="200" y="1536" font-size="16" font-weight="700" fill="#2C2C2A" text-anchor="start">11.995 kr</text>
+<rect x="56" y="1572" width="328" height="48" rx="8" fill="#FFFFFF" stroke="#444441" stroke-width="1.5"/>
+<text x="220.0" y="1601.25" font-size="15" font-weight="600" fill="#444441" text-anchor="middle">Se alle brugte cykler</text>
+<rect x="40" y="1644" width="360" height="300" rx="0" fill="#D3D1C7" stroke="none" stroke-width="1.5"/>
+<rect x="56" y="1668" width="140" height="32" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="126" y="1689" font-size="12" font-weight="600" fill="#888780" text-anchor="middle">Logo (negativ)</text>
+<text x="56" y="1724" font-size="14" font-weight="600" fill="#444441" text-anchor="start">Vi holder Aarhus rullende</text>
+<text x="56" y="1756" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Kontakt</text>
+<text x="56" y="1778" font-size="13" font-weight="400" fill="#444441" text-anchor="start">Krankvej 12, 8000 Aarhus C</text>
+<text x="56" y="1798" font-size="13" font-weight="400" fill="#444441" text-anchor="start">86 12 34 56 · hej@kaedeogkrank.dk</text>
+<text x="56" y="1830" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Åbningstider</text>
+<text x="56" y="1852" font-size="13" font-weight="400" fill="#444441" text-anchor="start">Man–fre 8–17 · Lør 10–14 · Søn lukket</text>
+<text x="56" y="1884" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="start">Garanti og vilkår</text>
+<line x1="56" y1="1888" x2="176" y2="1888" stroke="#2C2C2A" stroke-width="1"/>
+<line x1="56" y1="1904" x2="384" y2="1904" stroke="#B4B2A9" stroke-width="1"/>
+<text x="56" y="1926" font-size="12" font-weight="400" fill="#888780" text-anchor="start">© Kæde &amp; Krank · CVR 12 34 56 78</text>
+<line x1="400" y1="1674" x2="422" y2="1674" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="1661" width="63.599999999999994" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="455.8" y="1678.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">Footer</text>
+<text x="426" y="1706" font-size="12.5" fill="#993C1D">Kontakt, åbningstider,</text>
+<text x="426" y="1723" font-size="12.5" fill="#993C1D">garanti og vilkår</text>
+<line x1="400" y1="1830" x2="422" y2="1830" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="1817" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="448.2" y="1834.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">F-03</text>
+<text x="426" y="1862" font-size="12.5" fill="#993C1D">Åbningstider vises i</text>
+<text x="426" y="1879" font-size="12.5" fill="#993C1D">footeren · status = skilt</text>
+<rect x="40" y="130" width="360" height="1814" rx="10" fill="none" stroke="#2C2C2A" stroke-width="2"/><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4YjE2ODE0NS01MTVhLTQ0MTQtOTZhYi1iMGVjMmVkNTQyNTMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPJQkEXGXJw0yY6rDIE1OCoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0ODA1MGYyNy03NjdiLTQxZWYtYjcwOS03YjhmMzc5YjkyNDhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo6Pjn3DJ2XHJRg4++aKkz8gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgglg7Mel4YJ3MvEFBxy/UtmpflqL0Hkz4SPM5uGEgP1QekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBbEQC7fisDnFDoD8vmT+qoAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIOlH3trcUgl7J7KkIQz5WhT5HSQ/4VVMUVdH6miCT8JvZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GTMSZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjhiMTY4MTQ1LTUxNWEtNDQxNC05NmFiLWIwZWMyZWQ1NDI1My9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjRhZWJkMDRkLWFiMTQtNGNjZC05NmUwLWQ2ZDg4MjVlYmRiYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCWDsx6Xhgncy8QUHHL9S2al+WovQeTPhI8zm4YSA/VB6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg01glDTWd1eVvtO2+/WfeIgR+rd2ahxDuffMApcfL4YOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggdTG0/fw1jm4MXS/KQYqiWGdhN7llvnDmCTNhYLbYH/Z0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQM/jh6WYJ6i65oP3nhv0VyFvGPPYwBPX9ezYuATJCOEyaO3xacgY5+jrqtjnTaGzT2mD2jDHao0fn067sC98jPU=</c2pa:manifest></metadata></svg>

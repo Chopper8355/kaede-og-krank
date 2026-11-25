@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="1744" viewBox="0 0 1220 1744" font-family="Inter, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><rect width="1220" height="1744" fill="#FFFFFF"/>
+<text x="40" y="62" font-size="30" font-weight="700" fill="#2C2C2A">Booking · mobil</text>
+<text x="40" y="92" font-size="16" fill="#888780">Kæde &amp; Krank · D05 wireframe · lav detalje · 360 px</text>
+<text x="40" y="118" font-size="14" font-weight="600" fill="#888780">Mobil · 360 px · formular</text>
+<rect x="40" y="130" width="360" height="1554" rx="10" fill="#FFFFFF"/>
+<text x="630" y="118" font-size="14" font-weight="600" fill="#888780">Mobil · efter afsendelse (samme URL)</text>
+<rect x="630" y="130" width="360" height="942" rx="10" fill="#FFFFFF"/>
+<rect x="40" y="130" width="360" height="64" rx="10" fill="#F1EFE8" stroke="none" stroke-width="1.5"/>
+<line x1="40" y1="194" x2="400" y2="194" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="56" y="146" width="140" height="32" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="126" y="167" font-size="13" font-weight="600" fill="#888780" text-anchor="middle">Logo</text>
+<line x1="352" y1="154" x2="380" y2="154" stroke="#444441" stroke-width="3"/>
+<line x1="352" y1="162" x2="380" y2="162" stroke="#444441" stroke-width="3"/>
+<line x1="352" y1="170" x2="380" y2="170" stroke="#444441" stroke-width="3"/>
+<line x1="400" y1="162" x2="422" y2="162" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="149" width="101.6" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="474.8" y="166.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">G-02 · G-03</text>
+<text x="426" y="194" font-size="12.5" fill="#993C1D">Logo + burger-menu</text>
+<text x="426" y="211" font-size="12.5" fill="#993C1D">(aria-expanded)</text>
+<text x="56" y="246" font-size="28" font-weight="800" fill="#2C2C2A" text-anchor="start">Book tid</text>
+<rect x="56" y="268" width="328" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="56" y="286" width="328" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="56" y="304" width="196.79999999999998" height="8" rx="4" fill="#D3D1C7"/>
+<line x1="400" y1="360" x2="422" y2="360" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="347" width="101.6" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="474.8" y="364.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">B-01 · Y-03</text>
+<text x="426" y="392" font-size="12.5" fill="#993C1D">Ydelse forvalgt via</text>
+<text x="426" y="409" font-size="12.5" fill="#993C1D">/booking/?ydelse=…</text>
+<text x="56" y="344" font-size="13" font-weight="600" fill="#444441" text-anchor="start">Ydelse *</text>
+<rect x="56" y="352" width="328" height="44" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="68" y="379.0" font-size="14" font-weight="400" fill="#888780" text-anchor="start">Lille service · 449 kr · 60 min</text>
+<text x="366" y="379.0" font-size="14" font-weight="400" fill="#444441" text-anchor="middle">▾</text>
+<line x1="400" y1="442" x2="422" y2="442" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="429" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="448.2" y="446.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">B-04</text>
+<text x="426" y="474" font-size="12.5" fill="#993C1D">Fra i morgen</text>
+<text x="426" y="491" font-size="12.5" fill="#993C1D">til 30 dage frem</text>
+<text x="56" y="426" font-size="13" font-weight="600" fill="#444441" text-anchor="start">Dato *</text>
+<rect x="56" y="434" width="328" height="44" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="68" y="461.0" font-size="14" font-weight="400" fill="#888780" text-anchor="start">tirsdag 24.11.2026</text>
+<rect x="354" y="447.0" width="18" height="18" rx="3" fill="none" stroke="#888780" stroke-width="1.2"/>
+<line x1="354" y1="453.0" x2="372" y2="453.0" stroke="#888780" stroke-width="1.2"/>
+<text x="56" y="512" font-size="13" font-weight="600" fill="#444441" text-anchor="start">Ledige tider *</text>
+<line x1="400" y1="512" x2="422" y2="512" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="499" width="101.6" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="474.8" y="516.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">B-02 · B-03</text>
+<text x="426" y="544" font-size="12.5" fill="#993C1D">Hentes som JSON uden</text>
+<text x="426" y="561" font-size="12.5" fill="#993C1D">reload, når ydelse og</text>
+<text x="426" y="578" font-size="12.5" fill="#993C1D">dato er valgt</text>
+<rect x="56" y="524" width="76" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="94.0" y="547.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">08:00</text>
+<rect x="140" y="524" width="76" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="178.0" y="547.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">08:30</text>
+<rect x="224" y="524" width="76" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="262.0" y="547.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">09:00</text>
+<rect x="308" y="524" width="76" height="36" rx="18" fill="#444441" stroke="#444441" stroke-width="1.5"/>
+<text x="346.0" y="547.0" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">10:30</text>
+<rect x="56" y="570" width="76" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="94.0" y="593.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">11:00</text>
+<rect x="140" y="570" width="76" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="178.0" y="593.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">13:00</text>
+<rect x="224" y="570" width="76" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="262.0" y="593.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">14:30</text>
+<rect x="308" y="570" width="76" height="36" rx="18" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="346.0" y="593.0" font-size="13" font-weight="500" fill="#444441" text-anchor="middle">15:00</text>
+<rect x="56" y="620" width="328" height="50" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="70" y="641" font-size="12" font-weight="600" fill="#888780" text-anchor="start">Tilstand uden tider:</text>
+<text x="70" y="659" font-size="12" font-weight="400" fill="#888780" text-anchor="start">“Ingen ledige tider – vælg en anden dag”</text>
+<text x="56" y="704" font-size="13" font-weight="600" fill="#444441" text-anchor="start">Navn *</text>
+<rect x="56" y="712" width="328" height="44" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="68" y="739.0" font-size="14" font-weight="400" fill="#888780" text-anchor="start">Sofie Jensen</text>
+<line x1="400" y1="802" x2="422" y2="802" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="789" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="448.2" y="806.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">B-05</text>
+<text x="426" y="834" font-size="12.5" fill="#993C1D">Fejl vises ved feltet</text>
+<text x="426" y="851" font-size="12.5" fill="#993C1D">(browser + server)</text>
+<text x="56" y="786" font-size="13" font-weight="600" fill="#444441" text-anchor="start">E-mail *</text>
+<rect x="56" y="794" width="328" height="44" rx="6" fill="#FFFFFF" stroke="#A32D2D" stroke-width="2"/>
+<text x="68" y="821.0" font-size="14" font-weight="400" fill="#888780" text-anchor="start">sofie@</text>
+<text x="56" y="856" font-size="12" font-weight="600" fill="#A32D2D" text-anchor="start">⚠ Skriv en gyldig e-mail</text>
+<text x="56" y="892" font-size="13" font-weight="600" fill="#444441" text-anchor="start">Telefon *</text>
+<rect x="56" y="900" width="328" height="44" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="68" y="927.0" font-size="14" font-weight="400" fill="#888780" text-anchor="start">12 34 56 78</text>
+<text x="56" y="974" font-size="13" font-weight="600" fill="#444441" text-anchor="start">Cykeltype *</text>
+<rect x="56" y="982" width="328" height="44" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="68" y="1009.0" font-size="14" font-weight="400" fill="#888780" text-anchor="start">Vælg cykeltype</text>
+<text x="366" y="1009.0" font-size="14" font-weight="400" fill="#444441" text-anchor="middle">▾</text>
+<text x="56" y="1056" font-size="13" font-weight="600" fill="#444441" text-anchor="start">Bemærkning</text>
+<rect x="56" y="1064" width="328" height="96" rx="6" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="68" y="1091.0" font-size="14" font-weight="400" fill="#888780" text-anchor="start">Fx “baghjulet slår”</text>
+<rect x="56" y="1180" width="328" height="104" rx="6" fill="#F1EFE8" stroke="none" stroke-width="1.5"/>
+<text x="70" y="1206" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Garanti og vilkår</text>
+<rect x="70" y="1222" width="300" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="70" y="1240" width="300" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="70" y="1258" width="180.0" height="8" rx="4" fill="#D3D1C7"/>
+<line x1="400" y1="1206" x2="422" y2="1206" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="1193" width="116.8" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="482.4" y="1210.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">Kundens tekst</text>
+<text x="426" y="1238" font-size="12.5" fill="#993C1D">Garanti og vilkår</text>
+<text x="426" y="1255" font-size="12.5" fill="#993C1D">ved formularen</text>
+<rect x="56" y="1304" width="328" height="52" rx="8" fill="#444441" stroke="#444441" stroke-width="1.5"/>
+<text x="220.0" y="1335.25" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="middle">Send booking</text>
+<rect x="40" y="1384" width="360" height="300" rx="0" fill="#D3D1C7" stroke="none" stroke-width="1.5"/>
+<rect x="56" y="1408" width="140" height="32" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="126" y="1429" font-size="12" font-weight="600" fill="#888780" text-anchor="middle">Logo (negativ)</text>
+<text x="56" y="1464" font-size="14" font-weight="600" fill="#444441" text-anchor="start">Vi holder Aarhus rullende</text>
+<text x="56" y="1496" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Kontakt</text>
+<text x="56" y="1518" font-size="13" font-weight="400" fill="#444441" text-anchor="start">Krankvej 12, 8000 Aarhus C</text>
+<text x="56" y="1538" font-size="13" font-weight="400" fill="#444441" text-anchor="start">86 12 34 56 · hej@kaedeogkrank.dk</text>
+<text x="56" y="1570" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Åbningstider</text>
+<text x="56" y="1592" font-size="13" font-weight="400" fill="#444441" text-anchor="start">Man–fre 8–17 · Lør 10–14 · Søn lukket</text>
+<text x="56" y="1624" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="start">Garanti og vilkår</text>
+<line x1="56" y1="1628" x2="176" y2="1628" stroke="#2C2C2A" stroke-width="1"/>
+<line x1="56" y1="1644" x2="384" y2="1644" stroke="#B4B2A9" stroke-width="1"/>
+<text x="56" y="1666" font-size="12" font-weight="400" fill="#888780" text-anchor="start">© Kæde &amp; Krank · CVR 12 34 56 78</text>
+<line x1="400" y1="1414" x2="422" y2="1414" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="424" y="1401" width="63.599999999999994" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="455.8" y="1418.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">Footer</text>
+<text x="426" y="1446" font-size="12.5" fill="#993C1D">Kontakt, åbningstider,</text>
+<text x="426" y="1463" font-size="12.5" fill="#993C1D">garanti og vilkår</text>
+<rect x="630" y="130" width="360" height="64" rx="10" fill="#F1EFE8" stroke="none" stroke-width="1.5"/>
+<line x1="630" y1="194" x2="990" y2="194" stroke="#B4B2A9" stroke-width="1.5"/>
+<rect x="646" y="146" width="140" height="32" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="716" y="167" font-size="13" font-weight="600" fill="#888780" text-anchor="middle">Logo</text>
+<line x1="942" y1="154" x2="970" y2="154" stroke="#444441" stroke-width="3"/>
+<line x1="942" y1="162" x2="970" y2="162" stroke="#444441" stroke-width="3"/>
+<line x1="942" y1="170" x2="970" y2="170" stroke="#444441" stroke-width="3"/>
+<line x1="990" y1="162" x2="1012" y2="162" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="1014" y="149" width="101.6" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="1064.8" y="166.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">G-02 · G-03</text>
+<text x="1016" y="194" font-size="12.5" fill="#993C1D">Logo + burger-menu</text>
+<text x="1016" y="211" font-size="12.5" fill="#993C1D">(aria-expanded)</text>
+<circle cx="810" cy="266" r="32" fill="#F1EFE8" stroke="#444441" stroke-width="2"/>
+<text x="810" y="276" font-size="28" font-weight="700" fill="#2C2C2A" text-anchor="middle">✓</text>
+<text x="810" y="346" font-size="24" font-weight="800" fill="#2C2C2A" text-anchor="middle">Tak for din booking</text>
+<text x="810" y="376" font-size="15" font-weight="400" fill="#444441" text-anchor="middle">Dit bookingnummer er</text>
+<rect x="720" y="392" width="180" height="48" rx="8" fill="#FFFFFF" stroke="#444441" stroke-width="2"/>
+<text x="810" y="424" font-size="22" font-weight="800" fill="#2C2C2A" text-anchor="middle">KK-00042</text>
+<line x1="990" y1="416" x2="1012" y2="416" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="1014" y="403" width="48.4" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="1038.2" y="420.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">B-06</text>
+<text x="1016" y="448" font-size="12.5" fill="#993C1D">Gemt med status “Ny”</text>
+<text x="1016" y="465" font-size="12.5" fill="#993C1D">Kvittering med KK-nummer</text>
+<rect x="646" y="466" width="328" height="170" rx="6" fill="#F1EFE8" stroke="none" stroke-width="1.5"/>
+<text x="662" y="502" font-size="14" font-weight="400" fill="#444441" text-anchor="start">Ydelse</text>
+<text x="958" y="502" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="end">Lille service</text>
+<text x="662" y="538" font-size="14" font-weight="400" fill="#444441" text-anchor="start">Dato</text>
+<text x="958" y="538" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="end">tirsdag 24.11.2026</text>
+<text x="662" y="574" font-size="14" font-weight="400" fill="#444441" text-anchor="start">Tid</text>
+<text x="958" y="574" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="end">10:30–11:30</text>
+<text x="662" y="610" font-size="14" font-weight="400" fill="#444441" text-anchor="start">Pris</text>
+<text x="958" y="610" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="end">449 kr + evt. dele</text>
+<rect x="646" y="656" width="328" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="646" y="674" width="196.79999999999998" height="8" rx="4" fill="#D3D1C7"/>
+<rect x="646" y="696" width="328" height="48" rx="8" fill="#FFFFFF" stroke="#444441" stroke-width="1.5"/>
+<text x="810.0" y="725.25" font-size="15" font-weight="600" fill="#444441" text-anchor="middle">Til forsiden</text>
+<rect x="630" y="772" width="360" height="300" rx="0" fill="#D3D1C7" stroke="none" stroke-width="1.5"/>
+<rect x="646" y="796" width="140" height="32" rx="4" fill="#FFFFFF" stroke="#B4B2A9" stroke-width="1.5"/>
+<text x="716" y="817" font-size="12" font-weight="600" fill="#888780" text-anchor="middle">Logo (negativ)</text>
+<text x="646" y="852" font-size="14" font-weight="600" fill="#444441" text-anchor="start">Vi holder Aarhus rullende</text>
+<text x="646" y="884" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Kontakt</text>
+<text x="646" y="906" font-size="13" font-weight="400" fill="#444441" text-anchor="start">Krankvej 12, 8000 Aarhus C</text>
+<text x="646" y="926" font-size="13" font-weight="400" fill="#444441" text-anchor="start">86 12 34 56 · hej@kaedeogkrank.dk</text>
+<text x="646" y="958" font-size="14" font-weight="700" fill="#2C2C2A" text-anchor="start">Åbningstider</text>
+<text x="646" y="980" font-size="13" font-weight="400" fill="#444441" text-anchor="start">Man–fre 8–17 · Lør 10–14 · Søn lukket</text>
+<text x="646" y="1012" font-size="13" font-weight="600" fill="#2C2C2A" text-anchor="start">Garanti og vilkår</text>
+<line x1="646" y1="1016" x2="766" y2="1016" stroke="#2C2C2A" stroke-width="1"/>
+<line x1="646" y1="1032" x2="974" y2="1032" stroke="#B4B2A9" stroke-width="1"/>
+<text x="646" y="1054" font-size="12" font-weight="400" fill="#888780" text-anchor="start">© Kæde &amp; Krank · CVR 12 34 56 78</text>
+<line x1="990" y1="802" x2="1012" y2="802" stroke="#D85A30" stroke-width="1.5" stroke-dasharray="4 4"/>
+<rect x="1014" y="789" width="63.599999999999994" height="26" rx="13" fill="#FAECE7" stroke="#D85A30" stroke-width="1.2"/>
+<text x="1045.8" y="806.5" font-size="12.5" font-weight="700" fill="#993C1D" text-anchor="middle">Footer</text>
+<text x="1016" y="834" font-size="12.5" fill="#993C1D">Kontakt, åbningstider,</text>
+<text x="1016" y="851" font-size="12.5" fill="#993C1D">garanti og vilkår</text>
+<rect x="40" y="130" width="360" height="1554" rx="10" fill="none" stroke="#2C2C2A" stroke-width="2"/>
+<rect x="630" y="130" width="360" height="942" rx="10" fill="none" stroke="#2C2C2A" stroke-width="2"/><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxMWMxMTRhZi1iZTcxLTQ2MjAtOTY2OS02ODVkMzcxMDk0M2MAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEkmEJhBn6BkoicenRIIDrMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3MjZkMDNiZS05NWZkLTQ0MWQtYWVjZC1mZDk2Mzk3Zjg1NjRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoI4+4jxJ/3KE2IVL8mr3blQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggC90VK32stS8oy9Z/MXCTu2jF7/55HkqDzdZBGZfRf7ukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHfr9BX0Y7QhBJyBEYYCfO4AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIChW2eWia3cOGEW/+LR1MLfnKZTAtWpAnd9C5p2oKJ/aZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GUb8Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjExYzExNGFmLWJlNzEtNDYyMC05NjY5LTY4NWQzNzEwOTQzYy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjI3M2UxMDljLWFlYjAtNDMzMy05MWEwLTNhODRiNWQ3MDhiM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAL3RUrfay1LyjL1n8xcJO7aMXv/nkeSoPN1kEZl9F/u6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggp+A/i6MHqzJieBx7hloi+QPm3LxsAPRNwFKoQGTMBIOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg0tao4T+rc3+2g3Hww4iDsR8czRkawjP9tm9V5a3KcxJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGYrq0v7dEEhSwrLGFAxG0xem1+fdW/zkosypr28hnQLYOzrM4DZ19PN7KTRHFBIDg8HfZDaTm7h1y3hzT7iWwQ=</c2pa:manifest></metadata></svg>
