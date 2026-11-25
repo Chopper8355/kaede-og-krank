@@ -1,33 +1,888 @@
 /*
 Theme Name:  Kæde & Krank
 Description: Eget tema til Kæde & Krank.
-Version:     0.1.0
+Version:     0.2.0
 Author:      Jonas Knudsen
 Text Domain: kk-tema
 */
 
-body {
-    color: red;
+/* AI-assisteret (Claude), tilpasset og testet af mig - se AI-log 19.11
+   Faste regler fra other/designguide.pdf (version 1.0).
+   Rækkefølge: 1. Fonte  2. Designværdier  3. Grundopsætning  4. Tekst
+   5. Links og fokus  6. Knapper  7. Mærkat  8. Flader  9. Billeder
+   10. Ikoner og logo  11. Hero  12. Header
+   13. Navigation og burger-menu  14. Footer  15. Formularer */
+
+
+/* ==========================================================
+   1. Fonte (SIL Open Font License - licenserne ligger i assets/fonte)
+   ========================================================== */
+
+@font-face {
+    font-family: "Bricolage Grotesque";
+    src: url("assets/fonte/bricolage-grotesque-latin-400-normal.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
 }
 
-/* Hero: SVG'en indsættes inline fra assets/, så CSS'en her rammer den.
-   (Secure SVG Upload fjerner <style> fra uploadede SVG'er.) */
+@font-face {
+    font-family: "Bricolage Grotesque";
+    src: url("assets/fonte/bricolage-grotesque-latin-600-normal.woff2") format("woff2");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Bricolage Grotesque";
+    src: url("assets/fonte/bricolage-grotesque-latin-800-normal.woff2") format("woff2");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url("assets/fonte/atkinson-hyperlegible-latin-400-normal.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url("assets/fonte/atkinson-hyperlegible-latin-400-italic.woff2") format("woff2");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Atkinson Hyperlegible";
+    src: url("assets/fonte/atkinson-hyperlegible-latin-700-normal.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ==========================================================
+   2. Designværdier - brug altid variablerne, ikke hex-koderne
+   ========================================================== */
+
+:root {
+    /* Farver */
+    --farve-kaede-sort: #1d2320;
+    /* Tekst, overskrifter, footer */
+    --farve-krank-orange: #d9480f;
+    /* Grafik, ikoner, store flader. Kun tekst over 24 px (4,3:1) */
+    --farve-krank-orange-moerk: #b8380a;
+    /* Knapper og links. Hvid tekst på: 5,8:1 */
+    --farve-vaerksteds-groen: #2f5d50;
+    /* Sektioner, mærkater, sekundære knapper */
+    --farve-papir: #faf6ef;
+    /* Baggrund på hele sitet */
+    --farve-staal: #5c6561;
+    /* Sekundær tekst, hjælpetekst (5,6:1 på papir) */
+    --farve-lys-orange: #fdebd8;
+    /* Baggrund på bokse og fremhævninger */
+    --farve-lys-groen: #e3ece8;
+    /* Baggrund på kort og formularer */
+    --farve-hvid: #ffffff;
+    /* Kort og indholdsflader på papir */
+
+    /* Fonte */
+    --font-overskrift: "Bricolage Grotesque", system-ui, sans-serif;
+    --font-broedtekst: "Atkinson Hyperlegible", system-ui, sans-serif;
+
+    /* Skriftstørrelser */
+    --str-h1: clamp(2.25rem, 6vw, 4rem);
+    --str-h2: clamp(1.75rem, 4vw, 2.5rem);
+    --str-h3: 1.25rem;
+    --str-broedtekst: 1.0625rem;
+    --str-maerkat: 0.8125rem;
+    --linjehoejde-broedtekst: 1.6;
+
+    /* Former og mål */
+    --hjoerne-billede: 8px;
+    /* Alle billeder */
+    --hjoerne-rund: 999px;
+    /* Knapper og mærkater: helt runde ender */
+    --knap-min-hoejde: 44px;
+    /* Let at ramme på mobil */
+    --fokus-ring-bredde: 3px;
+    --fokus-ring-afstand: 2px;
+    --ikon-str: 24px;
+    --logo-min-bredde: 140px;
+    /* Smallere end det: brug logo-mark.svg */
+}
+
+
+/* ==========================================================
+   3. Grundopsætning
+   ========================================================== */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: var(--farve-papir);
+    color: var(--farve-kaede-sort);
+    font-family: var(--font-broedtekst);
+    font-size: var(--str-broedtekst);
+    font-weight: 400;
+    line-height: var(--linjehoejde-broedtekst);
+}
+
+
+/* ==========================================================
+   4. Tekst
+   ========================================================== */
+
+h1,
+h2,
+h3 {
+    margin: 0 0 0.5em;
+    color: inherit;
+    font-family: var(--font-overskrift);
+    line-height: 1.1;
+}
+
+h1 {
+    font-size: var(--str-h1);
+    font-weight: 800;
+}
+
+h2 {
+    font-size: var(--str-h2);
+    font-weight: 800;
+}
+
+h3 {
+    font-size: var(--str-h3);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+p {
+    margin: 0 0 1em;
+}
+
+/* Sekundær tekst og hjælpetekst (fx under formularfelter) */
+.hjaelpetekst {
+    color: var(--farve-staal);
+}
+
+/* Krank-orange som tekstfarve må KUN bruges på tekst over 24 px (kontrast 4,3:1) */
+.tekst--orange {
+    color: var(--farve-krank-orange);
+}
+
+
+/* ==========================================================
+   5. Links og fokus
+   ========================================================== */
+
+a {
+    color: var(--farve-krank-orange-moerk);
+    text-underline-offset: 0.15em;
+}
+
+a:hover {
+    text-decoration-thickness: 2px;
+}
+
+/* Fokus vises altid tydeligt: 3 px kæde-sort ring med 2 px afstand */
+:focus-visible {
+    outline: var(--fokus-ring-bredde) solid var(--farve-kaede-sort);
+    outline-offset: var(--fokus-ring-afstand);
+}
+
+
+/* ==========================================================
+   6. Knapper - helt runde ender, mindst 44 px høje.
+      Én primær knap pr. skærmbillede.
+      Brug: <a class="knap knap--primaer"> eller <button class="knap ...">
+   ========================================================== */
+
+.knap {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: var(--knap-min-hoejde);
+    padding: 0.5rem 1.5rem;
+    border: 2px solid transparent;
+    border-radius: var(--hjoerne-rund);
+    font-family: var(--font-broedtekst);
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.knap:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+}
+
+/* Primær: krank-orange mørk med hvid tekst (fx "Book tid") */
+.knap--primaer {
+    background-color: var(--farve-krank-orange-moerk);
+    color: var(--farve-hvid);
+}
+
+/* Sekundær: værksteds-grøn med hvid tekst (fx "Send besked") */
+.knap--sekundaer {
+    background-color: var(--farve-vaerksteds-groen);
+    color: var(--farve-hvid);
+}
+
+/* Kantknap: kæde-sort kant og tekst (fx "Se priser") */
+.knap--kant {
+    background-color: transparent;
+    border-color: var(--farve-kaede-sort);
+    color: var(--farve-kaede-sort);
+}
+
+
+/* ==========================================================
+   7. Mærkat (fx RESERVERET) - Atkinson 700, 0.8125rem, versaler, +0.08em
+   ========================================================== */
+
+.maerkat {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: var(--hjoerne-rund);
+    background-color: var(--farve-vaerksteds-groen);
+    color: var(--farve-hvid);
+    font-family: var(--font-broedtekst);
+    font-size: var(--str-maerkat);
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+
+/* ==========================================================
+   8. Flader og sektioner
+   ========================================================== */
+
+/* Kort og indholdsflader på papir */
+.kort {
+    background-color: var(--farve-hvid);
+}
+
+/* Kort og formularer på lys grøn */
+.kort--groen,
+.formular {
+    background-color: var(--farve-lys-groen);
+}
+
+/* Bokse og fremhævninger */
+.boks {
+    background-color: var(--farve-lys-orange);
+}
+
+/* Grøn sektion med hvid tekst */
+.sektion--groen {
+    background-color: var(--farve-vaerksteds-groen);
+    color: var(--farve-hvid);
+}
+
+/* Footer: kæde-sort */
+.site-footer {
+    background-color: var(--farve-kaede-sort);
+    color: var(--farve-papir);
+}
+
+/* På mørke flader ville orange links og den sorte fokusring forsvinde */
+.sektion--groen a,
+.site-footer a {
+    color: inherit;
+}
+
+.sektion--groen :focus-visible,
+.site-footer :focus-visible {
+    outline-color: var(--farve-papir);
+}
+
+
+/* ==========================================================
+   9. Billeder - afrundede hjørner (8 px) på alle billeder.
+      Cykler 3:2, hero 2:1.
+   ========================================================== */
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--hjoerne-billede);
+}
+
+.billede--cykel {
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+}
+
+.billede--hero {
+    width: 100%;
+    aspect-ratio: 2 / 1;
+    object-fit: cover;
+}
+
+
+/* ==========================================================
+   10. Ikoner og logo
+   ========================================================== */
+
+/* Ikonerne bruger stroke="currentColor", så de skal indsættes inline
+   (ikke som <img>) for at få farven fra teksten omkring dem */
+.ikon {
+    width: var(--ikon-str);
+    height: var(--ikon-str);
+    flex-shrink: 0;
+}
+
+/* Logoet må ikke strækkes og ikke være smallere end 140 px.
+   Er der mindre plads, bruges logo-mark.svg */
+.logo {
+    display: inline-block;
+    min-width: var(--logo-min-bredde);
+    height: auto;
+    border-radius: 0;
+}
+
+
+/* ==========================================================
+   11. Hero
+   SVG'en indsættes inline fra assets/, så CSS'en her rammer den.
+   (Secure SVG Upload fjerner <style> fra uploadede SVG'er.)
+   ========================================================== */
+
 .hero__billede {
     display: block;
     width: 100%;
     height: auto;
+    aspect-ratio: 2 / 1;
+    border-radius: var(--hjoerne-billede);
 }
 
 .hjul--drej {
     transform-box: fill-box;
     transform-origin: center;
-    animation: hjul-drej 4s ease-in-out;
+    animation: hjul-drej 6s cubic-bezier(0.3, 0.6, 0.4, 1);
 }
 
 @keyframes hjul-drej {
-    to { transform: rotate(360deg); }
+    to {
+        transform: rotate(1080deg);
+    }
 }
 
 @media (prefers-reduced-motion: reduce) {
-    .hjul--drej { animation: none; }
+    .hjul--drej {
+        animation: none;
+    }
 }
+
+
+/* ==========================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+
+Mit css nedenunder
+
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+=============================================================
+========================================================== */
+
+
+
+
+
+/* ==========================================================
+   page-wrapper =============================================
+   ========================================================== */
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    /* Fallback for ældre browsere */
+    min-height: 100dvh;
+}
+
+/* ==========================================================
+   page-wrapper =============================================
+   ==========================================================
+   ========================================================== */
+
+
+
+/* ==========================================================
+   12. Header (G-02)
+   AI-assisteret (Claude), tilpasset og testet af mig - se AI-log 23.11 og 24.11
+   ========================================================== */
+
+/* Ingen backdrop-filter eller transform her, ellers bliver den faste
+   menu inde i headeren fanget i den */
+.site-header {
+    position: sticky;
+    /* Frirum om logoet (designguiden: mindst tandhjulets halve diameter).
+       Det svarer til ca. 8 % af logoets bredde: 12 px ved 140 px, 16 px ved 200 px */
+    padding: clamp(0.75rem, 2.8vw, 1rem);
+    top: 0;
+    z-index: 30;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    background-color: var(--farve-hvid);
+}
+
+/* flex fjerner luften under billedet (inline-billeder står på tekstlinjen) */
+.site-header__logo {
+    display: flex;
+}
+
+.site-header .logo {
+    width: clamp(140px, 35vw, 200px);
+}
+
+
+
+/* ==========================================================
+   13. Navigation og burger-menu (G-03)
+   AI-assisteret (Claude), tilpasset og testet af mig - se AI-log 23.11
+   Bygget på min egen gamle menu, omskrevet fra checkbox til JS
+   ========================================================== */
+
+/* --- Burger-knappen --- */
+.menu-knap {
+    --streg-hoejde: 4px;
+    --streg-afstand: 6px;
+    position: relative;
+    z-index: 3;
+    /* Over menuen, så krydset kan klikkes */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: var(--streg-afstand);
+    width: var(--knap-min-hoejde);
+    height: var(--knap-min-hoejde);
+    padding: 0;
+    border: 0;
+    border-radius: var(--hjoerne-rund);
+    background: none;
+    color: var(--farve-kaede-sort);
+    cursor: pointer;
+}
+
+.menu-knap__streg {
+    width: 28px;
+    height: var(--streg-hoejde);
+    border-radius: var(--hjoerne-rund);
+    background-color: currentColor;
+    transition: transform 0.3s, opacity 0.3s;
+}
+
+/* Åben: øverste og nederste streg mødes i midten og drejes til et kryds */
+.menu-knap[aria-expanded="true"] .menu-knap__streg:nth-child(1) {
+    transform: translateY(calc(var(--streg-hoejde) + var(--streg-afstand))) rotate(45deg);
+}
+
+.menu-knap[aria-expanded="true"] .menu-knap__streg:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-knap[aria-expanded="true"] .menu-knap__streg:nth-child(3) {
+    transform: translateY(calc(-1 * (var(--streg-hoejde) + var(--streg-afstand)))) rotate(-45deg);
+}
+
+/* --- Mørk baggrund bag menuen --- */
+.overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1;
+    display: none;
+    background-color: rgb(29 35 32 / 0.5);
+    /* Kæde-sort, halvt gennemsigtig */
+}
+
+.menu-knap[aria-expanded="true"]~.overlay {
+    display: block;
+}
+
+/* --- Menuen der glider ind fra højre --- */
+.hovedmenu {
+    position: fixed;
+    inset: 0 0 0 auto;
+    z-index: 2;
+    width: min(20rem, 85vw);
+    padding: 5rem 1.5rem 1.5rem;
+    background-color: var(--farve-hvid);
+    transform: translateX(100%);
+    visibility: hidden;
+    /* Lukket menu kan ikke tabbes ind i */
+    transition: transform 0.3s, visibility 0.3s;
+}
+
+.menu-knap[aria-expanded="true"]~.hovedmenu {
+    transform: none;
+    visibility: visible;
+}
+
+.hovedmenu ul {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hovedmenu a {
+    display: flex;
+    align-items: center;
+    min-height: var(--knap-min-hoejde);
+    color: var(--farve-kaede-sort);
+    text-decoration: none;
+
+
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hovedmenu [aria-current="page"] {
+    /* font-weight: 700; */
+    text-decoration: underline;
+    text-decoration-color: var(--farve-krank-orange);
+    text-decoration-thickness: 3px;
+    text-underline-offset: 0.3em;
+}
+
+/* --- Desktop: ingen burger, menuen på én linje i headeren --- */
+@media (min-width: 48em) {
+    .menu-knap {
+        display: none;
+    }
+
+    /* [aria-expanded] gør reglerne lige så stærke som "åben"-reglerne ovenfor,
+       så en menu der var åben, da vinduet blev gjort bredere, ikke hænger fast */
+    .menu-knap[aria-expanded]~.overlay {
+        display: none;
+    }
+
+    .menu-knap[aria-expanded]~.hovedmenu {
+        position: static;
+        width: auto;
+        padding: 0;
+        background: none;
+        transform: none;
+        visibility: visible;
+        transition: none;
+    }
+
+    .hovedmenu ul {
+        flex-direction: row;
+        gap: 1.5rem;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+    .menu-knap__streg,
+    .hovedmenu {
+        transition: none;
+    }
+}
+
+/* ==========================================================
+   13. Navigation og burger-menu ============================
+   ==========================================================
+   ========================================================== */
+
+
+
+
+
+/* ==========================================================
+   main =====================================================
+   ========================================================== */
+main {
+    flex: 1;
+}
+
+/* ==========================================================
+   main =====================================================
+   ==========================================================
+   ========================================================== */
+
+
+
+/* ==========================================================
+   hero =====================================================
+   ========================================================== */
+.hero {
+    padding: 1rem;
+}
+
+/* ==========================================================
+   hero =====================================================
+   ==========================================================
+   ========================================================== */
+
+
+
+
+/* ==========================================================
+   footer ===================================================
+   ========================================================== */
+/* ==========================================================
+   14. Footer
+   AI-assisteret (Claude), tilpasset og testet af mig - se AI-log 23.11
+   ========================================================== */
+
+/* Mobil (standard): alt under hinanden */
+.site-footer {
+    padding: 2.5rem 1rem 1rem;
+}
+
+.site-footer__indhold {
+    display: grid;
+    grid-template-areas:
+        "logo"
+        "kontakt"
+        "aabningstider";
+    gap: 2rem;
+    max-width: 72rem;
+    margin-inline: auto;
+}
+
+.logo_kolonne {
+    grid-area: logo;
+}
+
+.kontakt_kolonne {
+    grid-area: kontakt;
+}
+
+.aabningstider_kolonne {
+    grid-area: aabningstider;
+}
+
+.site-footer .logo {
+    width: clamp(140px, 40vw, 180px);
+}
+
+.site-footer__overskrift {
+    margin: 0 0 .75rem;
+    font-size: var(--str-h3);
+}
+
+.site-footer p {
+    margin: 0 0 .5rem;
+}
+
+.site-footer address {
+    font-style: normal;
+}
+
+.aabningstider {
+    margin: 0;
+    max-width: 18rem;
+}
+
+.aabningstider__raekke {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+
+.aabningstider dd {
+    margin: 0;
+}
+
+.site-footer__bund {
+    max-width: 72rem;
+    margin: 2rem auto 0;
+    padding-top: 1rem;
+    border-top: 1px solid currentColor;
+    font-size: var(--str-maerkat);
+}
+
+/* Tablet (600 px+): logo øverst, kontakt og åbningstider side om side */
+@media (min-width: 37.5em) {
+    .site-footer__indhold {
+        grid-template-areas:
+            "logo    logo"
+            "kontakt aabningstider";
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* Desktop (900 px+): tre kolonner */
+@media (min-width: 56.25em) {
+    .site-footer__indhold {
+        grid-template-areas: "logo kontakt aabningstider";
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* ==========================================================
+   footer ===================================================
+   ==========================================================
+   ========================================================== */
+
+
+
+/* ==========================================================
+   404 ======================================================
+   ========================================================== */
+
+main:has(.ikke-fundet) {
+    display: flex;
+}
+
+.ikke-fundet {
+    width: 100%;
+    display: grid;
+    place-content: center;
+}
+
+/* ==========================================================
+   404 ======================================================
+   ==========================================================
+   ========================================================== */
+
+
+
+/* ==========================================================
+   15. Formularer (G-05, B-05)
+   AI-assisteret (Claude), tilpasset og testet af mig - se AI-log 24.11
+   Fejl styres med aria-invalid="true" (sat af JS og PHP),
+   så HTML'en aldrig skal have style="" (T-06)
+   ========================================================== */
+
+/* Fladen: lys grøn baggrund er allerede sat på .formular i afsnit 8 */
+.formular {
+    display: grid;
+    gap: 1.5rem;
+    max-width: 40rem;
+    padding: 1.5rem;
+    border-radius: var(--hjoerne-billede);
+}
+
+/* Ét felt = label + evt. hjælpetekst + input + fejltekst */
+.felt {
+    display: grid;
+    gap: 0.25rem;
+}
+
+.felt__label {
+    font-weight: 700;
+}
+
+.felt .hjaelpetekst {
+    margin: 0;
+}
+
+/* Tekstfelter, dropdowns og tekstområder: hvide på den grønne flade */
+.felt__input {
+    width: 100%;
+    min-height: var(--knap-min-hoejde);
+    padding: 0.5rem 0.75rem;
+    border: 2px solid var(--farve-staal);
+    border-radius: var(--hjoerne-billede);
+    background-color: var(--farve-hvid);
+    color: var(--farve-kaede-sort);
+    font: inherit;
+}
+
+textarea.felt__input {
+    min-height: 8rem;
+    resize: vertical;
+}
+
+.felt__input::placeholder {
+    color: var(--farve-staal);
+    opacity: 1;
+    /* Firefox gør ellers placeholder-teksten lysere */
+}
+
+/* Checkbox og radio i værksteds-grøn */
+.felt input[type="checkbox"],
+.felt input[type="radio"] {
+    width: 1.5rem;
+    height: 1.5rem;
+    accent-color: var(--farve-vaerksteds-groen);
+}
+
+/* Fejl: tykkere orange kant (box-shadow, så feltet ikke flytter sig) */
+.felt__input[aria-invalid="true"] {
+    border-color: var(--farve-krank-orange-moerk);
+    box-shadow: inset 0 0 0 1px var(--farve-krank-orange-moerk);
+}
+
+.felt__fejl {
+    margin: 0;
+    color: var(--farve-krank-orange-moerk);
+    font-weight: 700;
+}
+
+/* En tom fejlbesked fylder ikke noget */
+.felt__fejl:empty {
+    display: none;
+}
+
+/* ==========================================================
+   15. Formularer ===========================================
+   ==========================================================
+   ========================================================== */
+
+
+
+
+/* ==========================================================
+   spring-til-indhold / tap key functionality  ==============
+   ========================================================== */
+
+.spring-til-indhold {
+    position: absolute;
+    top: -100px;
+    left: 0.5rem;
+    z-index: 40;
+    background-color: var(--farve-hvid);
+}
+
+.spring-til-indhold:focus {
+    top: 0.5rem;
+}
+
+/* Siden bagved kan ikke scrolles, mens mobilmenuen er åben */
+html:has(.menu-knap[aria-expanded="true"]) {
+    overflow: hidden;
+}
+
+
+/* ==========================================================
+   spring-til-indhold / tap key functionality  ==============
+   ==========================================================
+   ========================================================== */
